@@ -10,4 +10,4 @@ It also had the additional constraint of no Maxpooling layers.
 
 The loss used in both approaches was Cross Entropy Loss.
 
-This was an assignment in UCLA's CS260 Machine Learning Algorithms
+This was an assignment(HW3) in UCLA's CS260 Machine Learning Algorithms
